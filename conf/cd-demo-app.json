@@ -4,7 +4,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "jendew/cd-demo:latest"
+      "image": "jendew/marathon-demo:latest"
     },
     "portMappings": [
       {
