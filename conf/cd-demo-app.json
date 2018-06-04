@@ -18,7 +18,7 @@
   "cpus": 0.1,
   "instances": 1,
   "labels": {
-    "HAPROXY_0_VHOST": "jdewaele-elasticl-1ppstie8p8keh-425429849.us-west-2.elb.amazonaws.com",
+    "HAPROXY_0_VHOST": "https://jdewaele-elasticl-1d75h7igigg9x-1757272894.us-west-2.elb.amazonaws.com",
     "HAPROXY_GROUP": "external",
     "lastChangedBy": "velocity-team@mesosphere.com"
   },
